@@ -29,4 +29,3 @@ export function calculatePrice(price, currency) {
         return '';
     }
   }
-  
